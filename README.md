@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Practice iterating over nested dictionaries
+- Practice iterating over nested dictionaries.
 
 ***
 
